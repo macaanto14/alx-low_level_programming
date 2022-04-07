@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/isamgazhi) - email@example.com
+Your Name - [@isamgazhi](https://twitter.com/isamgazhi) - info@hudhudict.com
 
 Project Link: [https://github.com/macaanto14/alx-low_level_programming](https://github.com/macaanto14/alx-low_level_programming)
 
