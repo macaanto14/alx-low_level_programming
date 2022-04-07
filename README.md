@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/macaanto14/alx-low_level_programming">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/15181738?s=40&v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ALX- Low Level Programming Language</h3>
