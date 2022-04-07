@@ -1,12 +1,12 @@
-<<<<<<< HEAD
 #include <stdio.h>
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 #include <stdio.h>
 =======
+=======
+>>>>>>> 1760ad76f7cb09fcce6df3ebf937a1a09c76051f
 #include<stdio.h>
->>>>>>> ecc817a29ba57b88132477879a41a5bd10e852e3
-
 /**
  * main - Entry point
  *
@@ -16,8 +16,4 @@
 int main(void)
 {
     return (0);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ecc817a29ba57b88132477879a41a5bd10e852e3
