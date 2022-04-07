@@ -1,12 +1,12 @@
 #!/bin/bash
-echo "Adding newly Updates"\n
-git add . \n
-echo "-- Finished --"\n
-echo "Commiting Changes"\n
-git commit -m "updated"\n
-echo "-- Finished -- "\n
-echo "Pushing latest commits"\n
+echo "Adding newly Updates\n"
+git add . 
+echo "-- Finished --\n"
+echo "Commiting Changes\n"
+git commit -m "updated\n"
+echo "-- Finished -- \n"
+echo "Pushing latest commits\n"
 git push
-echo "--- Finished ---"\n
+echo "--- Finished ---\n"
 
 exit
