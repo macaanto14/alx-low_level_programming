@@ -1,0 +1,12 @@
+#!/bin/bash
+export CFILE=main.c
+
+echo "Enter filen name" 
+read filename
+
+echo $filename 
+
+cat main.c
+
+exit
+
