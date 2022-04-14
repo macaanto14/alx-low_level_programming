@@ -1,5 +1,15 @@
-#include"main.h"
+#include "main.h"
+
+/**
+ * _isdigit - determines if input is a digit
+ *
+ * @c: int to examine
+ *
+ * Return: 1 if digit, 0 otherwise
+ */
 int _isdigit(int c)
 {
-	return (c >= '0' && c <= '9');
+	if (c >= '0' && c <= '9')
+		return (1);
+	return (0);
 }
