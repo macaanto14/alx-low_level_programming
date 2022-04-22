@@ -2,11 +2,8 @@
 
 /**
  * _strcat - a function that concatenates two strings.
- * 
  * @dest: an input string
- * 
  * @src: an input string
- * 
  * Return: A pointer to the resulting string
  */
 char *_strcat(char *dest, char *src)
@@ -18,8 +15,7 @@ char *_strcat(char *dest, char *src)
 
 	while (*src)
 		*dest++ = *src++;
-
+		_putchar('\n');
 	*dest = '\0';
-	
 	return (temp);
 }
