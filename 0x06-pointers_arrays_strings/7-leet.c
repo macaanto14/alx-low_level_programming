@@ -1,8 +1,3 @@
-/*
- * File: 7-leet.c
- * Auth: Ismail Mohamed
- */
-
 #include "main.h"
 
 /**
