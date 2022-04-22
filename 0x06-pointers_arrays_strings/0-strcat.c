@@ -1,8 +1,3 @@
-/*
- * File: 0-strcat.c
- * Auth: Ismail Mohamed
- */
-
 #include "main.h"
 
 /**
