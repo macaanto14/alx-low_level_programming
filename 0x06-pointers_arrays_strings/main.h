@@ -5,7 +5,7 @@
  * File: main.h
  * Auth: Ismail Mohamed
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x05-pointers_arrays_strings directory.
+ *       used in the 0x06-pointers_arrays_strings.
  */
 
 int _putchar(char c);
