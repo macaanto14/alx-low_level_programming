@@ -1,10 +1,9 @@
+#include "main.h"
+
 /**
- * reset_to_98 - changes passed integer pointer's dereferenced value
- * to 98
- *
- * @n: a pointer to an integer
- *
- * Return: 0
+ * reset_to_98 - Takes a pointer to an int and updates
+ *               the value it points to to 98.
+ * @n: The pointer to an int.
  */
 void reset_to_98(int *n)
 {
