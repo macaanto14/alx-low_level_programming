@@ -2,8 +2,10 @@
 #define MAIN_H
 
 /**
- * Written By: Ismail Mohamed.
- * Cohort_6 ALX-SE
+ * File: holberton.h
+ * Auth: Brennan D Baraban
+ * Desc: Header file containing prototypes for all functions
+ *       used in the 0x06-pointers_arrays_strings directory.
  */
 
 #include <stddef.h>
