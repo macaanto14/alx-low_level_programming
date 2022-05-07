@@ -2,8 +2,8 @@
 #define MAIN_H
 
 /**
- * File: holberton.h
- * Auth: Brennan D Baraban
+ * File: main.h
+ * Auth: Ismail Mohamed - ALX -SE COHORT 6
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0B-more_malloc_free directory.
  */
