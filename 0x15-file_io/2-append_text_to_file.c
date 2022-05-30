@@ -1,4 +1,4 @@
-#iinclude "main.h"
+#include "main.h"
 
 /**
  * append_text_to_file - Appends text at the end of a file.
